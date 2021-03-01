@@ -10,7 +10,7 @@ No prerequisites, just the maximum amount you'll like to spend if you go over th
 
 ## Use Case
 
-I created a monthly budget for $1 for now,I might increase it as time goes on.
+I created a monthly budget for $1 for now, I might increase it as time goes on.
 
 
 ## Cloud Research
