@@ -14,16 +14,15 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Kofo's Cloud Journey
 
-[✍️ Introduce yourself]
+Hi!, I'm Kofoworola Ogunleye (Cough-O for short), an AWS re/Start program graduate and aspiring Cloud Solutions Architect looking for my first role.
 
-[✍️ Tell us why you started this challenge]
+I've started this challenge to get some hands-on experience on AWS and also expand my skillset. I currently have Oracle and Azure certifications. [View here](https://www.youracclaim.com/users/kofoworola-ogunleye)
 
-[✍️ Tell us where you want to be at the end of the challenge]
+At the end of the challenge, I want to be AWS Solutions Architect Associate certified with competent Terraform and Linux skills.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+-[Linkedin profile](www.linkedin.com/in/kofoworola-ogunleye)
 
 ## Stepping out the door
 
