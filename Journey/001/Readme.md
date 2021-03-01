@@ -2,7 +2,7 @@
 
 ## Introduction
 
-First things first, set budgets so as to get notified by email when my charges reaches 80% of the set budget. I don't want to go in debt playing around with services. :p
+First things first, set budgets so as to get notified by email when my charges reaches 80% of the set budget. I don't want to go into debt playing around with services. :p
 
 ## Prerequisite
 No prerequisites, just the maximum amount you'll like to spend if you go over the free tier level.
@@ -10,7 +10,7 @@ No prerequisites, just the maximum amount you'll like to spend if you go over th
 
 ## Use Case
 
-I created a monthly budget for $1 because why not.
+I created a monthly budget for $1 for now,I might increase it as time goes on.
 
 
 ## Cloud Research
@@ -35,4 +35,4 @@ Create IAM users and start practicing Linux.
 
 
 ## Social Proof
-[link](link)
+[link](https://www.linkedin.com/feed/update/urn:li:activity:6772242384387375104/)
