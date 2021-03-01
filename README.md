@@ -20,9 +20,9 @@ Hi!, I'm Kofoworola Ogunleye (Cough-O for short), an AWS re/Start program gradua
 
 I've started this challenge to continue my learning journey and also expand my skillset. I currently have Oracle and Azure certifications. [View here](https://www.youracclaim.com/users/kofoworola-ogunleye)
 
-At the end of the challenge, I want to be AWS Solutions Architect Associate certified with competent Terraform, CI/CD pipeline and Linux skills.
+At the end of the challenge, I want to be AWS Solutions Architect Associate certified with competent Terraform and Linux skills.
 
--[Linkedin profile](www.linkedin.com/in/kofoworola-ogunleye)
+[Linkedin profile](www.linkedin.com/in/kofoworola-ogunleye)
 
 ## Stepping out the door
 
