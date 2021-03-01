@@ -16,11 +16,11 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## Kofo's Cloud Journey
 
-Hi!, I'm Kofoworola Ogunleye (Cough-O for short), an AWS re/Start program graduate and aspiring Cloud Solutions Architect looking for my first role.
+Hi!, I'm Kofoworola Ogunleye (Cough-O for short), an AWS re/Start program graduate and an aspiring Cloud Solutions Architect looking for my first role.
 
 I've started this challenge to continue my learning journey and also expand my skillset. I currently have Oracle and Azure certifications. [View here](https://www.youracclaim.com/users/kofoworola-ogunleye)
 
-At the end of the challenge, I want to be AWS Solutions Architect Associate certified with competent Terraform and Linux skills.
+At the end of this challenge, I want to be AWS Solutions Architect Associate certified with competent Terraform, python and Linux skills.
 
 [Linkedin profile](www.linkedin.com/in/kofoworola-ogunleye)
 
