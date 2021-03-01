@@ -35,4 +35,4 @@ Create IAM users and start practicing Linux.
 
 
 ## Social Proof
-[link](https://www.linkedin.com/feed/update/urn:li:activity:6772242384387375104/)
+[linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6772242384387375104/)
