@@ -1,52 +1,39 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# IAM and Linux
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Identity Access Management (IAM) securely controls who can access resources (Authentification) and what resources users can access (Authorization). For example, an IAM user with only S3FullAccess permissions cannot spin up EC2 servers or use any other services in the account.
 
-## Prerequisite
+IAM users can be people, services or applications.
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+• Root account shouldn't be used to access your account unless it is absolutely neccessary, IAM users with the right permissions should be used instead.
+• Enable MFA for all accounts 
+• Never put your credentials in code
+• Rotate credentials
+• Grant least priviledge; deny all access and allow as needs arises
+• Use IAM Roles to provide cross-account access.
+• Multiple users with the same policy should be in a group
+
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+• [AWS Identity and Access Management
+User Guide](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
+
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+• Create an Account Alias that will be used as Sign-in url for users 
+• Create a user with AdministratorAccess, use this instead of your Root Account to log into your AWS console
+• Create a user with only S3Full Access and try to use other services
+• Create multiple users and assign them to a group e.g DevOps group
+• Enable MFA by downloading authenticator, I use LastPass Authenticator app on my phone
 
-### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+## LINUX
+I learnt some basic linux commands, did some practice on [kodekloud](https://kodekloud.com/courses/945027/lectures/17487339), installed VirtualBox on my computer because I wanted my own learning environment to break, fix and develop my custom solutions
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
