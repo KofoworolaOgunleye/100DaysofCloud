@@ -13,27 +13,28 @@ IAM users can be people, services or applications.
 * Root account shouldn't be used to access your account unless it is absolutely neccessary, IAM users with the right permissions should be used instead.
 * Enable MFA for all accounts 
 * Never put your credentials in code
-• Rotate credentials
-• Grant least priviledge; deny all access and allow as needs arises
-• Use IAM Roles to provide cross-account access.
-• Multiple users with the same policy should be in a group
+* Rotate credentials
+* Grant least priviledge; deny all access and allow as needs arises
+* Use IAM Roles to provide cross-account access.
+* Multiple users with the same policy should be in a group
 
 
 ## Cloud Research
 
-• [AWS Identity and Access Management
+* [AWS Identity and Access Management
 User Guide](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
 
 
 ## Try yourself
 
-• Create an Account Alias that will be used as Sign-in url for users
-• Create a user with AdministratorAccess, use this instead of your Root Account to log into your AWS console
-• Create a user with only S3Full Access and try to use other services
-• Create multiple users and assign them to a group e.g DevOps group
-• Enable MFA by downloading authenticator, I use LastPass Authenticator app on my phone
+* Create an Account Alias that will be used as Sign-in url for users
+* Create a user with AdministratorAccess, use this instead of your Root Account to log into your AWS console
+* Create a user with only S3Full Access and try to use other services
+* Create multiple users and assign them to a group e.g DevOps group
+* Enable MFA by downloading authenticator, I use LastPass Authenticator app on my phone
 
 
 ## LINUX
 I learnt some basic linux commands, did some practice on [kodekloud](https://kodekloud.com/courses/945027/lectures/17487339), installed VirtualBox on my computer because I wanted my own learning environment to break, fix and develop my custom solutions.
+Here's the [video](https://www.youtube.com/watch?v=Wvf0mBNGjXY&t=5302s) I used in installing VirtualBox.
 
