@@ -10,9 +10,9 @@ IAM users can be people, services or applications.
 
 ## Use Case
 
-*Root account shouldn't be used to access your account unless it is absolutely neccessary, IAM users with the right permissions should be used instead.
-*Enable MFA for all accounts 
-*Never put your credentials in code
+* Root account shouldn't be used to access your account unless it is absolutely neccessary, IAM users with the right permissions should be used instead.
+* Enable MFA for all accounts 
+* Never put your credentials in code
 • Rotate credentials
 • Grant least priviledge; deny all access and allow as needs arises
 • Use IAM Roles to provide cross-account access.
