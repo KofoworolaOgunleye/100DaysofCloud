@@ -1,6 +1,6 @@
 
 
-# AWS SysOps Study Plan
+# Study Plan
 
 ## Introduction
 
