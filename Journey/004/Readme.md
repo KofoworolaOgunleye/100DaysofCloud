@@ -17,5 +17,5 @@ Study Plan;
 ## Linux and Terraform
 * Watch Valaxy Linux and Terraform youtube videos and follow along.
 
-I'll love to take on Kodekloud docker and kubernetes beginner course, but I think that will be too much now. Let me focus on honing the aforementioned.
-Slow and Steady, right?
+I'll love to take on Kodekloud docker and kubernetes beginner course, but I think that will be too much for now. Let me focus on honing the aforementioned.
+Baby steps, right?
