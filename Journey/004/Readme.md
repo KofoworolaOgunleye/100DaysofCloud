@@ -8,7 +8,7 @@ Study Plan;
 * Complete Freecodecamp youtube video for the exam
 * Buy JonBonso's practice test to test my Knowledge
 * Take pearson vue practice test
-* Use other resources to further understand some services
+* Use other resources like AWS whitepapers, FAQ etc. to further understand some services
 
 ## Python
 * Watch Techworld with Nana Python tutorial
