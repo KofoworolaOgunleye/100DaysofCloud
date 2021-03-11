@@ -26,8 +26,8 @@ AWS CloudTrail is a service that enables governance, compliance, operational aud
 * I didnt create KMS key because it is a charged service
 * ![ct2](https://user-images.githubusercontent.com/22412589/110852758-ab01b880-82aa-11eb-9fd9-8d735864da46.PNG)
 * ![ct2](https://user-images.githubusercontent.com/22412589/110856380-7b08e400-82af-11eb-9422-14bdbde42e09.PNG)
-* ![ct3](https://user-images.githubusercontent.com/22412589/110856383-7ba17a80-82af-11eb-8366-9d8765a4e0ae.PNG)
 * ![cT](https://user-images.githubusercontent.com/22412589/110856385-7ba17a80-82af-11eb-8477-771d43c72015.PNG)
+* ![ct3](https://user-images.githubusercontent.com/22412589/110856383-7ba17a80-82af-11eb-8366-9d8765a4e0ae.PNG)
 * Delete Trail
 * ![cT](https://user-images.githubusercontent.com/22412589/110857993-747b6c00-82b1-11eb-8743-59d6a32e0981.PNG)
 
@@ -36,4 +36,4 @@ AWS CloudTrail is a service that enables governance, compliance, operational aud
 
 
 
-[link](link)
+
