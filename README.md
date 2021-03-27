@@ -32,7 +32,7 @@ At the end of this challenge, I want to be AWS Solutions Architect Associate cer
 - [ ] ☁️ 4 > [Study Plan](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [Enabling CloudTrail](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [Host NodeJS-MySQL App on EC2](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [](Journey/007/Readme.md)
+- [ ] ☁️ 7 > [Kubernetes](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
