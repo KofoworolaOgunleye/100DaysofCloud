@@ -11,7 +11,6 @@ AWS CloudTrail is a service that enables governance, compliance, operational aud
 * Create trail if you need to track beyond 90days
 * Turn on Log validation to make sure logs are not tampered with
 * CloudTrail logs can be streamed to CloudWatch logs (paid service)
-* Trail logs in S3 can be analysed using Athena
 * Trail can be applied to all regions and Organizations
 * To log data operations for S3 and Lambda, use Data Events. It is disabled by default (Paid service)
 * Query/Analyse trail logs in S3 using Athena
